@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flet build artifacts
+.flet/
+flet_build/
+
+# Optional: comment out the lines below if you want to commit data files
+# retail_applicants.json
+# sme_applicants.json
+# retail_applicants.csv
+# sme_applicants.csv
