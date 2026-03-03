@@ -4,7 +4,7 @@ Sarvam AI wrappers for STT (Saaras v3) and Translation (Mayura v1).
 Replace SARVAM_KEY with your real subscription key before running.
 """
 
-SARVAM_KEY = "YOUR_REAL_SARVAM_SUBSCRIPTION_KEY_HERE"  # ← MUST CHANGE
+SARVAM_KEY = "sk_aqm3d74w_15Z1tgVdVhrLR6CVjS8tpIiq"  # ← MUST CHANGE
 
 
 def _get_client():
